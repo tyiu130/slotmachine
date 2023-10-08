@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tyiu130/slotmachine/issues"
   },
-  "homepage": "https://github.com/tyiu130/slotmachine#readme"
+  "homepage": "https://github.com/tyiu130/slotmachine#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
