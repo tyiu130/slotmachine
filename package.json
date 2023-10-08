@@ -1,0 +1,19 @@
+{
+  "name": "slotmachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tyiu130/slotmachine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tyiu130/slotmachine/issues"
+  },
+  "homepage": "https://github.com/tyiu130/slotmachine#readme"
+}
